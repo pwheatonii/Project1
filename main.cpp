@@ -29,6 +29,7 @@ int main()
 //   personType student2;
   
 //   student2.setName(firstName,lastName);
+//   Patrick Wheaton
    
 
 //     cout << "Second student's first name: " << student2.getFirstName() << endl;
